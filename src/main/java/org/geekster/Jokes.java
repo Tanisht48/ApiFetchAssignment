@@ -62,6 +62,7 @@ public class Jokes {
             System.out.println("id: "+jsonAPIResponse.get("id"));
             System.out.println("value: "+jsonAPIResponse.get("value"));
             System.out.println("url: "+jsonAPIResponse.get("url"));
+            System.out.println(jsonAPIResponse);
 
 
         } else

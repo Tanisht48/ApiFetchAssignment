@@ -56,6 +56,8 @@ public class ZipCodes {
             System.out.println("places: "+jsonAPIResponse.get("places"));
             System.out.println("country abbreviation: "+jsonAPIResponse.get("country abbreviation"));
             System.out.println("post code: "+jsonAPIResponse.get("post code"));
+            System.out.println(jsonAPIResponse);
+
 
 
 
